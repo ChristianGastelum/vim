@@ -89,10 +89,46 @@ Plug 't9md/vim-choosewin'
 Plug 'scrooloose/syntastic'
 " Paint css colors with the real color
 Plug 'lilydjwg/colorizer'
+"Gramatica"
+Plug 'dpelle/vim-LanguageTool'
+"""""""""""""""""""Rust"
+Plug 'rust-lang/rust.vim'
+
+Plug 'racer-rust/vim-racer'
+
+Plug 'phildawes/racer'
+
+
+"C++"
+Plug 'vim-scripts/taglist.vim'
+Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'vim-scripts/c.vim'
+"Esto sirve para vim-scripts"
+let  g:C_UseTool_cmake    = 'yes'
+let  g:C_UseTool_doxygen = 'yes'
+
+map<F6> :!g++ -std=c++11 % -Wall -g -o %.out && ./%.out<CR>
+
 " Ack code search (requires ack installed in the system)
 Plug 'mileszs/ack.vim'
+"Markdown"
+Plug 'godlygeek/tabular'
 
 Plug 'lokaltog/vim-powerline'
+
+Plug 'vim-pandoc/vim-pandoc'
+Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'vim-pandoc/vim-rmarkdown'
+Plug 'jalvesaq/r-vim-runtime'
+
+" configuration for vim-pandoc and vim-rmarkdown
+let g:pandoc#modules#disabled = ["folding", "spell"]
+let g:pandoc#syntax#conceal#use = 0
+
+" Render file Rmarkdown
+autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('<c-r>%')"<space>\|<space>R<space>--vanilla<enter>
+
+
 if has('python')
     " YAPF formatter for Python
     Plug 'pignacio/vim-yapf-format'
@@ -201,9 +237,10 @@ nmap ,wr :Ack <cword><CR>
 " use 256 colors when possible
 if (&term =~? 'mlterm\|xterm\|xterm-256\|screen-256') || has('nvim')
 	let &t_Co = 256
-    colorscheme watermark
+    colorscheme kxxe
 else    
     colorscheme dusk
+
 endif
 
 " colors for gvim
@@ -394,9 +431,9 @@ let g:choosewin_overlay_enable = 1
 
 " Airline ------------------------------
 
-let g:airline_powerline_fonts = 0
+let g:airline_powerline_fonts = 1
 let g:airline_theme = 'bubblegum'
-let g:airline#extensions#whitespace#enabled = 0
+let g:airline#extensions#whitespace#enabled = 1
 
 " to use fancy symbols for airline, uncomment the following lines and use a
 " patched font (more info on the README.rst)
@@ -410,3 +447,16 @@ let g:airline#extensions#whitespace#enabled = 0
 "let g:airline_symbols.branch = '⭠'
 "let g:airline_symbols.readonly = '⭤'
 "let g:airline_symbols.linenr = '⭡'
+
+"-------------------------"
+"Markdown"
+"Auto-fit"
+let g:vim_markdown_toc_autofit = 1
+" Concealing is set for some syntax. "
+set conceallevel=2
+let vim_markdown_preview_hotkey='<C-m-p>'
+let g:vim_markdown_math = 1
+let g:vim_markdown_frontmatter = 1
+let g:vim_markdown_toml_frontmatter = 1
+let g:vim_markdown_json_frontmatter = 1
+
