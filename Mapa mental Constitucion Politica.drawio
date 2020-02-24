@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-24T21:19:20.633Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="a1S8tP9CEpOomHrQq-iX" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-24T22:23:41.622Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="q1unyLsKIk5lTgyiHiRA" version="12.7.4" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="991" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -484,6 +484,9 @@
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-50" value="Partidos Politicos" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="1190" width="120" height="120" as="geometry" />
         </mxCell>
@@ -526,6 +529,50 @@
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-58" value="Postular principios e ideas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-64" target="OrsZ6i-USayrmDN_K0OZ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-64" value="Cancelacion del registro&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-65" value="Si no obtiene el 3% de votacion valida en cualquiera de las elecciones .&lt;br&gt;&lt;br&gt;Poder Ejecutivo&amp;nbsp;&lt;br&gt;o&lt;br&gt;Camaras del Congreso de la Union&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1140" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-68" target="OrsZ6i-USayrmDN_K0OZ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-68" value="Financiamiento&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-69" target="OrsZ6i-USayrmDN_K0OZ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-69" value="Se fijara anualmente&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.336;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-71" target="OrsZ6i-USayrmDN_K0OZ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-71" value="Actividades Ordinarias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-72" target="OrsZ6i-USayrmDN_K0OZ-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-72" target="OrsZ6i-USayrmDN_K0OZ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-72" value="# Totalde cuidadanos inscritos en el padron electoral X 75% UMA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="130" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-74" value="30% se distribuye a os partidos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-75" value="70%&amp;nbsp; de acuerdo al porcentaje de votos en la eleccion de diputados immediata anterior" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
