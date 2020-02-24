@@ -1,13 +1,16 @@
-<mxfile host="www.draw.io" modified="2020-02-24T19:36:01.482Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="awlv77ivnDnoNZwArjaP" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-24T21:19:20.633Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="a1S8tP9CEpOomHrQq-iX" version="12.7.4" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="1410" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PjsLy7RfEbO4GPlwERFH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2c924340bb9dbf6c-4" target="PjsLy7RfEbO4GPlwERFH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-4" value="Constitucion Politica" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="OrsZ6i-USayrmDN_K0OZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2c924340bb9dbf6c-4" value="Constitucion Politica" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1410" y="1380" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PjsLy7RfEbO4GPlwERFH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PjsLy7RfEbO4GPlwERFH-2" target="PjsLy7RfEbO4GPlwERFH-5" edge="1">
@@ -22,6 +25,14 @@
             <Array as="points">
               <mxPoint x="1810" y="1430" />
               <mxPoint x="1810" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PjsLy7RfEbO4GPlwERFH-2" target="OrsZ6i-USayrmDN_K0OZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1660" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,7 +87,7 @@
         <mxCell id="PjsLy7RfEbO4GPlwERFH-15" value="Iniciar leyes con los requisitos necesarios" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PjsLy7RfEbO4GPlwERFH-16" value="Votar en Consultas populares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PjsLy7RfEbO4GPlwERFH-16" value="Votar en Consultas populares" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2080" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PjsLy7RfEbO4GPlwERFH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PjsLy7RfEbO4GPlwERFH-28" target="PjsLy7RfEbO4GPlwERFH-34" edge="1">
@@ -110,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PjsLy7RfEbO4GPlwERFH-29" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Consultas Populares&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="PjsLy7RfEbO4GPlwERFH-29" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Consultas Populares&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2390" y="1800" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PjsLy7RfEbO4GPlwERFH-34" value="Presidente de la Republica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -191,7 +202,7 @@
             <mxPoint x="2220" y="2130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PjsLy7RfEbO4GPlwERFH-63" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Jornada Electoral&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="PjsLy7RfEbO4GPlwERFH-63" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Jornada Electoral&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1850" y="2065" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PjsLy7RfEbO4GPlwERFH-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PjsLy7RfEbO4GPlwERFH-65" target="PjsLy7RfEbO4GPlwERFH-66" edge="1">
@@ -340,6 +351,181 @@
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-1" value="Por ayudar, en contra de la nacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-4" target="OrsZ6i-USayrmDN_K0OZ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1920" y="210" />
+              <mxPoint x="1700" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-4" target="OrsZ6i-USayrmDN_K0OZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-4" target="OrsZ6i-USayrmDN_K0OZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-4" target="OrsZ6i-USayrmDN_K0OZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1920" y="210" />
+              <mxPoint x="2120" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-4" value="38 Suspension de derechos o prerrogativas de los cuidadanos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-5" value="Falta de cumplimiento de obligaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-6" value="Sujeto a un proceso criminal que merezca pena corporal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-7" value="Durante pena corporal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-8" value="Vagancia o ebriedad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-15" target="OrsZ6i-USayrmDN_K0OZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-15" target="OrsZ6i-USayrmDN_K0OZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-15" target="OrsZ6i-USayrmDN_K0OZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-15" value="Soberania Nacional y de la Forma de Gobierno" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-18" value="39. La soberania nacional reside esencial y originalmente al pueblo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1415" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-20" value="40. Es voluntad del pueblo mexicano constituirse en una Republica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1520" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-21" value="41. El Pueblo ejerce su soberania por medio del los Poderes de la union" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1620" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-24" target="OrsZ6i-USayrmDN_K0OZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-24" target="OrsZ6i-USayrmDN_K0OZ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1887.1399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-24" target="OrsZ6i-USayrmDN_K0OZ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-24" target="OrsZ6i-USayrmDN_K0OZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-24" value="Poderes de la Union&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-25" value="Poder Ejecutivo.&lt;br&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;El Presidente de los Estados Unidos Mexicanos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1740" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-27" value="Poder Judicial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-34" target="OrsZ6i-USayrmDN_K0OZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-34" target="OrsZ6i-USayrmDN_K0OZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-34" value="Congreso de la Union&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-35" target="OrsZ6i-USayrmDN_K0OZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-35" value="&lt;span style=&quot;white-space: normal&quot;&gt;Poder legislativo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-39" target="OrsZ6i-USayrmDN_K0OZ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-39" value="Camara de Diputados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-40" value="Camara de Senadores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-41" value="500.&amp;nbsp;&lt;br&gt;300 mayoria relativa&lt;br&gt;200&amp;nbsp; representacion proporcional" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1770" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-42" value="&lt;font style=&quot;font-size: 12px&quot;&gt;128&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: justify&quot;&gt;64&amp;nbsp; Mayoría Relativa, &lt;br&gt;32&amp;nbsp; Representación Proporcional y &lt;br&gt;32 de Primera Minoría.&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1880" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-49" value="Son Entidades de interes publico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-50" value="Partidos Politicos" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-51" value="La ley determina las normas y requisitos para su registro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-54" target="OrsZ6i-USayrmDN_K0OZ-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1010" />
+              <mxPoint x="380" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-54" target="OrsZ6i-USayrmDN_K0OZ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-54" target="OrsZ6i-USayrmDN_K0OZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-54" target="OrsZ6i-USayrmDN_K0OZ-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1010" />
+              <mxPoint x="800" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-54" value="Fin/Proposito" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-55" value="Promovoer la participacion en la vida democratica&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-56" value="Fomentar el principio de paridad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-57" value="hacer posible su acceso al ejercicio de poder publico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-58" value="Postular principios e ideas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
