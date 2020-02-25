@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T21:03:39.607Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Q2DGylTu1IT1sfl8MyU2" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T21:50:33.835Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="9IuowCj6t4qWZimyhWVq" version="12.7.6" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1668" dy="3899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -552,51 +552,13 @@
           <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-71" value="Actividades Ordinarias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-72" target="OrsZ6i-USayrmDN_K0OZ-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-72" target="OrsZ6i-USayrmDN_K0OZ-75">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="770" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-72" value="31 Julio de cada año &lt;br&gt;# Totalde cuidadanos inscritos en el padron electoral X 65% UMA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="150" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-74" target="OrsZ6i-USayrmDN_K0OZ-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="-60" />
-              <mxPoint x="750" y="-60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.316;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-75" target="-DCWWlfOx0b9FijC48pt-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="0.058823529411711206" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="748" y="-50" />
-              <mxPoint x="560" y="-50" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OrsZ6i-USayrmDN_K0OZ-74" value="30% se distribuye a os partidos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.605;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-75" target="OrsZ6i-USayrmDN_K0OZ-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="749.9999999999995" y="-90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-75" target="-DCWWlfOx0b9FijC48pt-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="-130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-75" value="70%&amp;nbsp; de acuerdo al porcentaje de votos en la eleccion de diputados immediata anterior" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-10" width="280" height="60" as="geometry" />
+          <mxGeometry x="750" y="70" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-DCWWlfOx0b9FijC48pt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-80" target="-DCWWlfOx0b9FijC48pt-4">
           <mxGeometry relative="1" as="geometry" />
@@ -624,26 +586,29 @@
         <mxCell id="-DCWWlfOx0b9FijC48pt-5" value="&lt;div&gt;30%&lt;br&gt;Diputado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DCWWlfOx0b9FijC48pt-10" target="-DCWWlfOx0b9FijC48pt-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DCWWlfOx0b9FijC48pt-10" target="-DCWWlfOx0b9FijC48pt-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DCWWlfOx0b9FijC48pt-10" target="-DCWWlfOx0b9FijC48pt-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-DCWWlfOx0b9FijC48pt-10" value="Actividades Especificas&lt;br&gt;3%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-DCWWlfOx0b9FijC48pt-13" value="Educacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-260" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="-105" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DCWWlfOx0b9FijC48pt-14" value="Capacitacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-260" width="70" height="40" as="geometry" />
+          <mxGeometry x="595" y="-105" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DCWWlfOx0b9FijC48pt-15" value="Investigacion Socioeconomica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-260" width="90" height="40" as="geometry" />
+          <mxGeometry x="670" y="-105" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-DCWWlfOx0b9FijC48pt-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-190" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-DCWWlfOx0b9FijC48pt-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="815.62" y="-66.88" width="20" height="413.75" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-74" value="30% se distribuye a os partidos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DCWWlfOx0b9FijC48pt-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-230" width="20" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
