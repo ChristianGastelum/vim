@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-24T22:23:41.622Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="q1unyLsKIk5lTgyiHiRA" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T00:29:53.609Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="W26sRTYfXcLJwxc9WjZE" version="12.7.4" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="991" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -573,6 +573,9 @@
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-75" value="70%&amp;nbsp; de acuerdo al porcentaje de votos en la eleccion de diputados immediata anterior" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-80" value="Actividades para obtener v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
