@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-26T00:17:40.948Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="3MIDYI0hyGdNQaEEtFlY" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-27T00:59:47.070Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="ovtPafZl3lyV7Vilq7Et" version="12.7.6" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="7336" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7169" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,10 +487,10 @@
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-68">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="OrsZ6i-USayrmDN_K0OZ-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="-DCWWlfOx0b9FijC48pt-37">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OrsZ6i-USayrmDN_K0OZ-50" target="-DCWWlfOx0b9FijC48pt-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="1200" />
@@ -551,7 +551,7 @@
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-65" value="Si no obtiene el 3% de votacion valida en cualquiera de las elecciones .&lt;br&gt;&lt;br&gt;Poder Ejecutivo&amp;nbsp;&lt;br&gt;o&lt;br&gt;Camaras del Congreso de la Union&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1140" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrsZ6i-USayrmDN_K0OZ-68" target="OrsZ6i-USayrmDN_K0OZ-72">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OrsZ6i-USayrmDN_K0OZ-68" target="OrsZ6i-USayrmDN_K0OZ-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-68" value="Financiamiento&lt;br&gt;&lt;div&gt;&amp;nbsp;Publico&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -560,7 +560,7 @@
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OrsZ6i-USayrmDN_K0OZ-69" target="OrsZ6i-USayrmDN_K0OZ-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OrsZ6i-USayrmDN_K0OZ-69" value="Se fijara anualmente&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OrsZ6i-USayrmDN_K0OZ-69" value="Se fijara anualmente &lt;br&gt;31 Julio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="1296.87" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-71" value="Actividades Ordinarias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -575,53 +575,80 @@
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-80" value="Actividades para obtener votos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-270" y="935" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-2" value="&lt;h1&gt;UMA&lt;/h1&gt;&lt;p&gt;La Unidad de Medida y Actualización (UMA) es la referencia económica en &lt;br/&gt;pesos para determinar la cuantía del pago de las obligaciones y &lt;br/&gt;supuestos previstos en las leyes federales, de las entidades &lt;br/&gt;federativas, así como en las disposiciones jurídicas que emanen de todas&lt;br/&gt; las anteriores.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-2" value="&lt;h1&gt;UMA&lt;/h1&gt;&lt;p&gt;La Unidad de Medida y Actualización (UMA) es la referencia económica en &lt;br/&gt;pesos para determinar la cuantía del pago de las obligaciones y &lt;br/&gt;supuestos previstos en las leyes federales, de las entidades &lt;br/&gt;federativas, así como en las disposiciones jurídicas que emanen de todas&lt;br/&gt; las anteriores.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-170" y="1130" width="190" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-3" value="Cuando se Elija&lt;br&gt;-Presidente&lt;br&gt;- Diputados&lt;br&gt;-Senadores" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-3" value="Cuando se Elija&lt;br&gt;-Presidente&lt;br&gt;- Diputados&lt;br&gt;-Senadores" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="850" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-4" value="50%&lt;br&gt;Presidente, Senador, Diputado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-4" value="50%&lt;br&gt;Presidente, Senador, Diputado" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-5" value="&lt;div&gt;30%&lt;br&gt;Diputado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-5" value="&lt;div&gt;30%&lt;br&gt;Diputado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-10" value="Actividades Especificas&lt;br&gt;3%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-10" value="Actividades Especificas&lt;br&gt;3%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-580" y="935" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-13" value="Educacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-13" value="Educacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-650" y="875" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-14" value="Capacitacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-14" value="Capacitacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-565" y="875" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-15" value="Investigacion Socioeconomica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-15" value="Investigacion Socioeconomica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="875" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-535" y="790" width="20" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-344.38" y="913.12" width="20" height="413.75" as="geometry" />
         </mxCell>
         <mxCell id="OrsZ6i-USayrmDN_K0OZ-74" value="30% se distribuye a os partidos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-420" y="750" width="20" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-180" y="780" width="20" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-36" value="Medios de Comunicacion" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-36" value="Medios de Comunicacion" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="430" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DCWWlfOx0b9FijC48pt-37" target="-DCWWlfOx0b9FijC48pt-36">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DCWWlfOx0b9FijC48pt-37" target="-DCWWlfOx0b9FijC48pt-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-DCWWlfOx0b9FijC48pt-37" value="&amp;nbsp;Derecho al uso permanente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DCWWlfOx0b9FijC48pt-37" value="&amp;nbsp;Derecho al uso permanente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-6" target="8_mh-RSnoFa3G4dcWG0z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-6" value="INE" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=7;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;perimeterSpacing=6;" vertex="1" parent="1">
+          <mxGeometry x="920" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-9" target="-DCWWlfOx0b9FijC48pt-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-9" value="Administra tiempo que corresponda al estado " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-12" target="8_mh-RSnoFa3G4dcWG0z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-12" target="8_mh-RSnoFa3G4dcWG0z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-12" value="Candidatos independientes" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-13" target="-DCWWlfOx0b9FijC48pt-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_mh-RSnoFa3G4dcWG0z-13" value="Solo en periodos de campaña" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
