@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T23:57:05.206Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="vmb9rhkpdhHLwAntXVMN" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-14T00:20:55.442Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="PO4lscns9TbvC44zbXpt" version="12.8.4" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="6168" dy="3899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -740,8 +740,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OvT9HyBcRdOdBXHlkOVR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OvT9HyBcRdOdBXHlkOVR-8" target="-DCWWlfOx0b9FijC48pt-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OvT9HyBcRdOdBXHlkOVR-8" value="&lt;div&gt;12% del tiempo total del estado. Repartira un 6% entre todos los partidos equitativamente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-70" width="120" height="100" as="geometry" />
+          <mxGeometry x="990" y="290" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
