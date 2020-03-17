@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-17T19:54:20.669Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="q_1LsNSrD7Xn7tRriOP4" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-17T22:38:00.420Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="R5mIzSPZ0tj_ZzCri0_7" version="12.8.6" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="5918" dy="3764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6168" dy="3899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,6 +651,12 @@
         <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-6" target="r8_Ky8IJeS4Sk7H8gGKl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-6" target="r8_Ky8IJeS4Sk7H8gGKl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=7;" edge="1" parent="1" source="8_mh-RSnoFa3G4dcWG0z-6" target="r8_Ky8IJeS4Sk7H8gGKl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8_mh-RSnoFa3G4dcWG0z-6" value="INE" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=7;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;perimeterSpacing=6;" parent="1" vertex="1">
           <mxGeometry x="920" y="130" width="120" height="120" as="geometry" />
         </mxCell>
@@ -777,10 +783,93 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-4" value="Investigara Infracciones " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-8" value="&lt;div&gt;Tribunal electoral del Poder Judicial de la Federacion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="1260" y="-30" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-10" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="r8_Ky8IJeS4Sk7H8gGKl-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="170" as="sourcePoint" />
+            <mxPoint x="1090" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-11" value="" style="endArrow=none;dashed=1;html=1;entryX=0.076;entryY=0.697;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r8_Ky8IJeS4Sk7H8gGKl-4" target="8_mh-RSnoFa3G4dcWG0z-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="210" as="sourcePoint" />
+            <mxPoint x="960" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-12" value="Es un organismo publico autonomo dotado de personalidad juridica y patrimnio propios, en cuya integracion participan el Poder Legislativo de la Union, " style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-150" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-14" value="Autoridad en la materia, idependiente en sus decisiones y funcionamiento, y profesional en su desempeño" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-130" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="r8_Ky8IJeS4Sk7H8gGKl-16" target="r8_Ky8IJeS4Sk7H8gGKl-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.037;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="r8_Ky8IJeS4Sk7H8gGKl-16" target="r8_Ky8IJeS4Sk7H8gGKl-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="-240" />
+              <mxPoint x="1596" y="-240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-16" value="Estructura" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-17" value="Direccion" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-20" value="Ejecutivos" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-22" value="Tecnicos" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-23" value="Vigilancia" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-27" value="" style="endArrow=classic;html=1;strokeWidth=1;jumpSize=1;" edge="1" parent="1" source="r8_Ky8IJeS4Sk7H8gGKl-16" target="r8_Ky8IJeS4Sk7H8gGKl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="-510" as="sourcePoint" />
+            <mxPoint x="1560" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-31" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.041;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="r8_Ky8IJeS4Sk7H8gGKl-16" target="r8_Ky8IJeS4Sk7H8gGKl-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="-290" as="sourcePoint" />
+            <mxPoint x="1550" y="-340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-32" value="Consejo General" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-33" value="Consejero Presidente" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="-1180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="r8_Ky8IJeS4Sk7H8gGKl-34" target="r8_Ky8IJeS4Sk7H8gGKl-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-34" value="10 Consejeros electorales" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="-1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-35" value="Con voz sin voto" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-37" value="Consejeros&amp;nbsp; Poder Legislativo" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="-1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-38" value="Representantes de partidos politicos" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="-910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_Ky8IJeS4Sk7H8gGKl-39" value="Secretario general" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="-820" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
